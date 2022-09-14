@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Firebase Authentication</string>
+    <string name="no_data">Not Signed In</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <string name="dont_have_account">Don\'t Have An Account?</string>
+    <string name="already_have_account">Already Have An Account?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+
+    <!--For google Sign In-->
+    <string name="client_id">928326519162-b6cd5i51kv21okjlr9mqidghv94ht8mq.apps.googleusercontent.com</string>
+</resources>
